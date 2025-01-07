@@ -1,0 +1,10 @@
+form {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+    
+}
